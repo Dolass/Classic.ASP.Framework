@@ -6,6 +6,7 @@ Dim ASP_Speed_BeginTime : ASP_Speed_BeginTime = Timer()
 ' UI 출력과 관련된 공통 변수
 
 
+
 %><!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
